@@ -1,0 +1,20 @@
+{
+  "name": "mtiot-website",
+  "version": "1.0.0",
+  "description": "Official One-Page Website for MTIOT - IoT Devices, Websites, Custom Software & Mobile Applications",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve .",
+    "dev": "npx live-server . --port=3000 --open=/"
+  },
+  "keywords": [
+    "mtiot",
+    "iot-devices",
+    "software-development",
+    "website-development",
+    "mobile-apps",
+    "iit-jammu"
+  ],
+  "author": "MTIOT",
+  "license": "ISC"
+}
